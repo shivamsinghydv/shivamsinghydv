@@ -3,6 +3,8 @@
 
 - 📫 Reach me at:            www.shivamsinghydv.cf
 
+___________________________________________________
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shivamsinghydv)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamsinghydv&repo=dev-portfolio)
