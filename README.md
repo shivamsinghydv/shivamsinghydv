@@ -2,11 +2,9 @@
 🌱 I’m currently learning: Basic DS & algo
 📫 Reach me at:            www.shivamsinghydv.cf
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shivamsinghydv)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
-
-![counter](https://[YourEndpoint].m.pipedream.net)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamsinghydv&repo=dev-portfolio)
 
 <!--
 **shivamsinghydv/shivamsinghydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
