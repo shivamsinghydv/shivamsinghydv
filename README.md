@@ -1,6 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning: Basic DS & algo
-📫 Reach me at:            www.shivamsinghydv.cf
+- 🌱 I’m currently learning: Basic DS & algo
+
+- 📫 Reach me at:            www.shivamsinghydv.cf
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shivamsinghydv)
 
