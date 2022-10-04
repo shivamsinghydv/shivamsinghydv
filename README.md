@@ -4,7 +4,7 @@
 - 📫 Reach me at:            www.shivamsinghydv.cf
 
 ___________________________________________________
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=material-polenight&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamsinghydv&theme=material-polenight&show_icons=true)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamsinghydv&repo=dev-portfolio)
 
