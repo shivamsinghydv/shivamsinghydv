@@ -6,6 +6,8 @@
 ___________________________________________________
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamsinghydv&theme=material-polenight&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamsinghydv&repo=dev-portfolio)
 
 <!--
