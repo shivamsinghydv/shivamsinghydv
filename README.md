@@ -8,7 +8,8 @@ ___________________________________________________
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shivamsinghydv)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamsinghydv&repo=dev-portfolio)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsinghydv&layout=compact)](https://github.com/shivamsinghydv/shivamsinghydv)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsinghydv&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shivamsinghydv/shivamsinghydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
