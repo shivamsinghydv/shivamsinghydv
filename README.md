@@ -4,9 +4,10 @@
 - 📫 Reach me at:            www.shivamsinghydv.cf
 
 ___________________________________________________
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamsinghydv&theme=merko&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsinghydv&layout=compact&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamsinghydv&theme=merko&show_icons=true)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamsinghydv&repo=dev-portfolio&theme=merko&show_icons=true)
 
