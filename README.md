@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning: Basic DS & algo
 
-- 📫 Reach me at:            www.shivamsinghydv.cf
+- 📫 Reach me at:            https://shivamsinghydv.github.io/dev-portfolio
 
 ___________________________________________________
 
