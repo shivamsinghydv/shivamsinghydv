@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shivamsinghydv.github.io/dev-portfolio](https://shivamsinghydv.github.io/dev-portfolio)
 
-- 💬 Ask me about **javascript, react, bootstrap**
+- 💬 Ask me about **React.JS, Python, Git**
 
 - 📫 How to reach me **shivam9661446@gmail.com**
 
