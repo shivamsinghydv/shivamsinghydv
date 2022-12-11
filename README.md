@@ -1,5 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<h2>Hi I'm Shivam </h2>
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h2>Hi I'm Shivam </h2>
 <h3 align="center">A passionate web-developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsinghydv&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsinghydv" /> </p>
