@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been learning to code for past three years. I like working with frontend.
+Trying to break into tech.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shivam9661446@gmail.com](mailto:shivam9661446@gmail.com)
