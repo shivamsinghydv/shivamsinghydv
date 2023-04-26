@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shivam
 ==============================================================================================================================
 
-Web Developer
+Student Developer
 -------------
-
-Trying to break into tech.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shivam9661446@gmail.com](mailto:shivam9661446@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning different algorithms and space time complexity.
 
 <a href="https://www.github.com/shivamsinghydv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shivamsinghydv?logo=github&style=for-the-badge&color=0891b2&labelColor=134e4a" /></a><a href="https://www.twitter.com/shivamsinghydv" target="_blank" rel="noreferrer"><img
