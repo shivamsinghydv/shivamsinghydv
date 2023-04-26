@@ -10,7 +10,7 @@ Student Developer
 
 <a href="https://www.github.com/shivamsinghydv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shivamsinghydv?logo=github&style=for-the-badge&color=0891b2&labelColor=134e4a" /></a><a href="https://www.twitter.com/shivamsinghydv" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/shivamsinghydv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=134e4a"
+src="https://img.shields.io/twitter/follow/shivamsinghydv?style=social"
 /></a>
 ### Skills
 
