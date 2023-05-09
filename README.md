@@ -41,7 +41,3 @@ src="https://img.shields.io/twitter/follow/shivamsinghydv?logo=twitter&style=for
 <a href="http://www.github.com/shivamsinghydv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsinghydv&stroke=ffffff&background=134e4a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/shivamsinghydv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsinghydv&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/shivamsinghydv/twitter-banner " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamsinghydv&repo=twitter-banner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&locale=en" /></a><a href="https://github.com/shivamsinghydv/dev-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shivamsinghydv&repo=dev-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
