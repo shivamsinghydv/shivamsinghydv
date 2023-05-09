@@ -7,14 +7,6 @@ Student Developer
 * ✉️  You can contact me at [shivam9661446@gmail.com](mailto:shivam9661446@gmail.com)
 * [Connect](https://shivamsinghydv.me)
 
-<a href="https://www.github.com/shivamsinghydv" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shivamsinghydv?logo=github&style=for-the-badge&color=0891b2&labelColor=134e4a" /></a><a href="https://www.twitter.com/shivamsinghydv" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/shivamsinghydv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=134e4a"
-/></a>
-
-
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/shivamsinghydv"><img src="https://github-readme-stats.vercel.app/api?username=shivamsinghydv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&show_icons=true" alt="shivamsinghydv's GitHub stats" /></a>
